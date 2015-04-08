@@ -1,0 +1,15 @@
+{
+  "name": "Marko Substitution Poltergeist",
+  "description": "Minimal project that reproduces some strange issue",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "app-module-path": "^1.0.1",
+    "express": "4.10.6",
+    "marko": "2.2.0",
+    "optimizer": "1.8.2",
+    "optimizer-less": "2.0.3",
+    "optimizer-marko": "2.0.1",
+    "serve-static": "^1.8.1"
+  }
+}
