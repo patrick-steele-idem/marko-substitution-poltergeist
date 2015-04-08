@@ -1,6 +1,6 @@
 # Marko Substitution Poltergeist
 
-Minimal project that reproduces strange issue with subsitution of `and` words to `&&` symbols
+Minimal project that reproduces strange [issue](https://github.com/raptorjs/marko/issues/60) with subsitution of `and` words to `&&` symbols
 
 # Play
 
