@@ -14,3 +14,9 @@ I don't know actual reason of this problem, but for the end user this is because
 makes all subsequent `and` words be replaced by `&&` symbol.
 
 If you'll "close" single quotes, i.e. `We'are' young` - everything will be correct.
+
+# Workaround
+
+Replace all single quotes with the following:
+
+    $("'")
