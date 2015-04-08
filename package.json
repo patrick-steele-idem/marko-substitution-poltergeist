@@ -1,5 +1,5 @@
 {
-  "name": "Marko Substitution Poltergeist",
+  "name": "marko-substitution-poltergeist",
   "description": "Minimal project that reproduces some strange issue",
   "version": "0.0.1",
   "private": true,

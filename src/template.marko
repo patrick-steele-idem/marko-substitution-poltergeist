@@ -9,10 +9,19 @@
         <!-- Comment next line -->
         We're young.
 
-        <div class="content">
-            You and me are friends and
-            coworkers.
+        <!-- All 'and' words will be replaced by '&&' symbol -->
+        <div style="color:red">
+            You and me are friends and teammates.
         </div>
+
+        <!-- Workaround -->
+        <div style="color:blue">
+            You ${"and"} me are friends ${"and"} teammates.
+        </div>
+        
+        <!--
+        Also, instead of "We're young" we can write "We${"'"}re young" and problem will disappear.
+        -->
 
     </layout-put>
 
